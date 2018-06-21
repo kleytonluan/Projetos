@@ -1,4 +1,4 @@
-package exercicio2.Cofre;
+package projetos.exercicio2.Cofre;
 
 import java.util.ArrayList;
 import java.util.List;

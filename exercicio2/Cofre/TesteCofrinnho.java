@@ -1,4 +1,4 @@
-package exercicio2.Cofre;
+package projetos.exercicio2.Cofre;
 
 public class TesteCofrinnho {
 

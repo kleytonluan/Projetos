@@ -1,4 +1,4 @@
-package exercicio1.mercado;
+package projetos.exercicio1.mercado;
 
 public class Produto {
 	public String nome;
