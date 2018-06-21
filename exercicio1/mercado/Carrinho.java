@@ -15,17 +15,3 @@ public class Carrinho {
 		produtos.add(produto);
 	}
 }
-
-
-/*	List<Produto> produtos;
-	public Carrinho() {
-		produtos = new ArrayList<>();
-	}
-	public List<Produto> getProdutos() {
-		return produtos;
-	}
-	public void addProduto(Produto produto) {
-		produtos.add(produto);
-	}
-}
- */
